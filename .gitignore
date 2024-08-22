@@ -1,0 +1,9 @@
+*.sln
+*Debug
+*vcxproj
+*.pdb
+*.idb
+*.obj
+*.enc
+*.ilc
+*.recipe
